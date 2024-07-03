@@ -67,7 +67,7 @@ bot = Bot(command_prefix=COMMAND_PREFIX,
           owner_ids=[1063386002955190312]
         )
 
-bot.yuri_thread_id =  1253816892146188480 # (Thread For storing messages)
+bot.yuri_thread_id =  1254613714913591307 # (Thread For storing messages)
 
 
 
